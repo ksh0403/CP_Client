@@ -1,2 +1,2 @@
-# CP_Client
+# CP_Client
 Client for "Click Pals" io game 🖱🎈✨
